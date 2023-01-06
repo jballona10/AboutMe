@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">AboutMe2023</string>
+    <string name="name">Josue</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="what_is_your_nickname">What is your Nickname?</string>
+    <string name="bio">Howdy\nThe name\'s <b>Josue</b> pronounced <i>ho-sway</i>
+    \n\nVideo games are one of my favorite hobbies. I have been playing
+    them for as long as I can remember. The longest running franchise I\'ve played
+    has to be pokemon, but <b>Final Fantasy</b> has become one of my favorite series
+    \nI have had a few different types of pets over the years. A variety of fish that,
+    until recently, I did not know I was overfeeding. I have had two slider turtles.
+    I have also had two rabbits. The pet I currently have now is a beautiful, small
+    husky that I have had for five years. Her name is Nova and she is 5 years old.
+    she has one blue eye and one brown eye. \n\nTraveling the country is one of my goals.
+    I would like to see more of our own country and eventually other countries.
+    In 2021, I took my first trip as a part of that goal by going to Colorado
+    for my birthday. That is the furthest west I have gone. I went skiing for my
+    first time. I hopped around spending a night or two in each spot and doing what I
+    could for the weather that I had. \n\n</string>
+    <string name="done">Done</string>
+</resources>
