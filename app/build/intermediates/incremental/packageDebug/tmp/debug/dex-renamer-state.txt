@@ -1,0 +1,4 @@
+#Thu Jan 05 22:56:47 CST 2023
+base.0=C\:\\Users\\Josue\\Desktop\\AndroidProgramming2023\\AboutMe2023\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
